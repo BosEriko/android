@@ -14,6 +14,7 @@ Here are the applications I use.
     - [Discord](https://play.google.com/store/apps/details?id=com.discord)
     - [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
     - [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+    - [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community)
 1. Entertainment
     - [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
     - [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
