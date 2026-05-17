@@ -10,10 +10,12 @@ Here are the applications I use.
 1. Tools
     - [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser)
     - [Proton Pass](https://play.google.com/store/apps/details?id=proton.android.pass)
+1. Work
+    - [Microsoft Teams](https://play.google.com/store/apps/details?id=com.microsoft.teams)
+    - [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 1. Social
     - [Discord](https://play.google.com/store/apps/details?id=com.discord)
     - [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
-    - [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
     - [Steam](https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community)
 1. Entertainment
     - [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
