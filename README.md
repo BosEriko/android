@@ -19,6 +19,7 @@ Here are the applications I use.
 1. Communication
     - [Discord](https://play.google.com/store/apps/details?id=com.discord)
     - [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
+    - [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 
 1. Media & Community
     - [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
@@ -28,6 +29,9 @@ Here are the applications I use.
 1. Utilities
     - [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser)
     - [Proton Pass](https://play.google.com/store/apps/details?id=proton.android.pass)
+    - [Proton Authenticator](https://play.google.com/store/apps/details?id=proton.android.authenticator)
+    - [Proton Calendar](https://play.google.com/store/apps/details?id=me.proton.android.calendar)
+    - [Proton Wallet](https://play.google.com/store/apps/details?id=me.proton.wallet.android)
 
 1. System Defaults
     - [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
