@@ -7,19 +7,22 @@ Here are the applications I use.
     - [Maya](https://play.google.com/store/apps/details?id=com.paymaya)
     - [GCash](https://play.google.com/store/apps/details?id=com.globe.gcash.android)
     - [Wallet by BudgetBakers](https://play.google.com/store/apps/details?id=com.droid4you.application.wallet)
+    - [CLiQQ](https://play.google.com/store/apps/details?id=com.philseven.loyalty2026)
 
 1. Transport & Services
     - [Grab](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger)
 
 1. Productivity
-    - [Microsoft Teams](https://play.google.com/store/apps/details?id=com.microsoft.teams)
-    - [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
     - [Notebloc Scanner](https://play.google.com/store/apps/details?id=com.notebloc.app)
+    - [Habitica](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica)
 
 1. Communication
     - [Discord](https://play.google.com/store/apps/details?id=com.discord)
     - [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
     - [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+    - [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)
+    - [Microsoft Teams](https://play.google.com/store/apps/details?id=com.microsoft.teams)
+    - [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 1. Media & Community
     - [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
